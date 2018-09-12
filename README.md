@@ -26,67 +26,71 @@ You Will be Able to Find These Chapters From Blog / Wikipedia
 
 
 
-BAB 4		: First Java progam [OK]
 
-BAB 5		: Token and Literal [OK]
 
-BAB 6 		: Separator, Whitespace, dan Comment [OK]
+BAB 4		: First Java progam 
 
-BAB 7		: Data types [OK]
+BAB 5		: Token and Literal 
 
-BAB 8		: Konvension and Data type casting
+BAB 6 		: Separator, Whitespace, dan Comment 
 
-BAB 9		: Operator
+BAB 7		: Data types 
 
-BAB 10		: Operator Integer
+BAB 8		: Converse and Data Type casting 
 
-BAB 11		: Floating Point operator
+BAB 9		: Operator 
 
-BAB 12		: Operator Boolean
+BAB 10		: Operator Integer 
 
-BAB 13		: Operator String
+BAB 15		: Array 
 
-BAB 14		: Operator Assignment and Otomation types
+BAB 16		: Block and Environment 
 
-BAB 15		: Array
+BAB 17		: Sekuen 
 
-BAB 16		: Block and Environment
+BAB 18		: Branching 
 
-BAB 17		: Sekuen
+BAB 19		: Loop 
 
-BAB 18		: Branching
+BAB 20		: Jump 
 
-BAB 19		: Loop
+BAB 21		: Class 
 
-BAB 20		: Jump
+BAB 22		: Methode 
 
-BAB 21		: Class
+BAB 23 		: Constructor 
 
-BAB 22		: Methode
+BAB 24		: Object 
 
-BAB 23 		: Constructor
+BAB 25		: Class Object 
 
-BAB 24		: Object
+BAB 26 		: Approximate of Object Oriented 
 
-BAB 25		: Class Object
+BAB 27		: Encapsulation 
 
-BAB 26 		: Approximate of Object Oriented
+BAB 28		: Inheritance 
 
-BAB 27		: Encapsulation
+BAB 29		: Polymorphism 
 
-BAB 28		: Inheritance
-
-BAB 29		: Polymorphism
-
-BAB 30		: Message
+BAB 30		: Message 
 
 	
 
 
 
-**To Be Comming Soon**
+
 
 *----------------------------------------------------------------------------------------------------
+
+**To Be Comming Soon**
+
+	BAB 11		: Floating Point operator
+
+	BAB 12		: Operator Boolean
+
+	BAB 13		: Operator String
+
+	BAB 14		: Operator Assignment and Otomation types
 
 	BAB 31		: String
 
@@ -126,8 +130,12 @@ BAB 30		: Message
 
 
 
-#Version 1.1.2
+
+
+#Version 0.6
 
 #Created	: 2018 07 18
+
+#Updated	: 2018 09 12
 
 #Updated	: 2018 09 11
