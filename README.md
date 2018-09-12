@@ -10,7 +10,7 @@
 
 *----------------------------------------------------------------------------------------------------
 
-Make Sure That You'Ve Done Read These Chapters Before You Ready For The Next Chapter
+Make Sure That You Have Done Read These Chapters Before You Ready For The Next Chapter
 
 	BAB 1 		: Java Introduction
 
