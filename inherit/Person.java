@@ -52,8 +52,8 @@ public class Person {
 		return str;
 	}
 
-	static void ui() {
-		Person p = new Person("Bil Awal", "Kp. Pacing RT 03/06 Waringinjaya", "Bekasi", 20);
+	static void second() {
+		Person p = new Person("Bil Awal Fathur Rizky", "Jl. Pegangsaan Raya No. 47", "Cikarang", 20);
 		System.out.println("Bil Awal sebagai Person :");
 		System.out.println(p.getName());
 		System.out.println(p.getAddress());
@@ -62,6 +62,6 @@ public class Person {
 		System.out.println(p);
 	}
 	public static void main(String[] args) {
-		ui();
+		second();
 	}
 }
