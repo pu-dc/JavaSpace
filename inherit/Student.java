@@ -52,7 +52,7 @@ public class Student extends Person {
 	}
 
 	static void ui() {
-		Student s = new Student("BIL AWAL FATHUR RIZKY", "KP. PACING WARINGINJAYA", "CIKARANG", 20, 012201705014, "Strata 1", "Information System");
+		Student s = new Student("Bil Awal Fathur Rizky", "Jl. Pegangsaan Raya No. 47", "Cikarang", 20, 012201705014, "Strata 1", "Information System");
 		System.out.println(s);
 	}
 	public static void main(String[] args) {
