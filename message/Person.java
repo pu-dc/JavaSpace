@@ -52,9 +52,9 @@ public class Person {
 		return str;
 	}
 
-	static void ui() {
-		Person p = new Person("Bil Awal", "Kp. Pacing RT 03/06 Waringinjaya", "Bekasi", 20);
-		System.out.println("Bil Awal sebagai Person :");
+	static void userInterface() {
+		Person p = new Person("Adam Smith", "Pegangsaan Raya No. 45", "Bekasi", 20);
+		System.out.println("Adam Smith sebagai Person :");
 		System.out.println(p.getName());
 		System.out.println(p.getAddress());
 		System.out.println(p.getCity());
@@ -62,6 +62,6 @@ public class Person {
 		System.out.println(p);
 	}
 	public static void main(String[] args) {
-		ui();
+		userInterface();
 	}
 }
