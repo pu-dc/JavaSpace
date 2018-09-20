@@ -59,7 +59,7 @@ public class StudentNext extends Person {
 
 	static void second() {
 		Department d = new Department("Sistem Informasi", "Rikip Ginanjar");
-		StudentNext sn = new StudentNext("Bil Awal Fathur Rizky", "Jl. Pegangsaan Raya No. 47", "Cikarang", 20, "012201705014", "Strata 1", d);
+		StudentNext sn = new StudentNext("Adam Smith", "Jl. Pegangsaan Raya No. 47", "Bekasi", 20, "012201705014", "Strata 1", d);
 		
 		System.out.println(sn.getName());
 		System.out.println(sn.getAddress());
